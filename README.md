@@ -1,5 +1,6 @@
 # app-dev
 My first repository
+
 ![Snow_White_and_the_Seven_Dwarfs_poster](https://github.com/cherry0302Ann/app-dev/assets/133980049/ad77824d-0b5e-4954-bade-394cb92a4a47)
 
 ***Snow White and the Seven Dwarfs***
